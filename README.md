@@ -1,1 +1,1 @@
-# mp2-lab14-map
+[![Build Status](https://travis-ci.com/AmelieMedved/mp2-lab14-map.svg?branch=mp2-lab14-map)](https://travis-ci.com/AmelieMedved/mp2-lab14-map)
