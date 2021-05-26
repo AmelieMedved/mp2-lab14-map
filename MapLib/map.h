@@ -28,6 +28,9 @@ public:
     typedef TMapIterator<TK, TV> iterator;
     friend class TMapIterator<TK, TV>;
     iterator Begin();
+
+    template <class TTK, class TTV>
+    friend std::ostream& operator<<(std::ostream& ostream, const TMap<TTK, TTV>& map);
 };
 
 
